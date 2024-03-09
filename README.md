@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Js.
 - 💞️ I’m looking to collaborate on Projects based on Js.
 - 📫 How to reach me : premizz1652@gmail.com
-- ⚡ Fun fact: Have to do this for a better today tommorow.
+- ⚡ Fun fact: Have to do this for a better today, tommorow.
 
 <!---
 Prem16-pro/Prem16-pro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
